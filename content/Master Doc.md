@@ -6,7 +6,10 @@ modified:
 published:
 ---
 > [!Warning]
-> This document is currently a work-in-progress. It is not finished and only contains [[#Metadata]] and an [[#Overview]].
+> This document is currently a work-in-progress. It is not finished and only contains necessary information at the moment.
+
+> [!Note] Related Lore
+> Make sure to check the Chronicles tab to see any lore documents related to Cuppers’ backstory and current events.
 
 # Starborne Comet “Cuppers”
 ## Metadata
