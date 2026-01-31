@@ -7,3 +7,8 @@ published:
 ---
 > [!Failure]
 > This document is currently empty and a work-in-progress.
+
+---
+
+> [!Tip] Owner
+> The founder of this tavern is [[Amber]].

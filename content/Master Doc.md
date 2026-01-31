@@ -33,12 +33,10 @@ Forged by an unknown creator from a starborne comet, Cuppers was an originally, 
 After finding his new home and family, he did menial tasks in Aeolian until one day, he found a broken guitar in a nearby field. After weeks of repair, he figured out how to play the guitar using both fragmented memories from his space juice and gradual learning over time. When he was finally ready, he played his silly little tunes at the opening of the [[Dragon’s Nest]] Tavern, with songs of both unknown and known origins (such as [[Descender]]).
 
 He then captured the eye of a distant kingdom, now residing within as the Royal Bard of the Desert Kingdom.
-
 ## Powers
 - **”Space Juice”.** Holding the memories of a suitable host, the consciousness of the host is overridden with the memories it holds. ^ed325f
 - **Pure Host.** This allows the user to return to its original state. The user cannot return to its state unless its body has been severed from the host item holding the Space Juice. (In this context, R!Cuppers returns to his original small cup when he has no body.)
 - **Parasitic Nature.** Upon entering the Pure Host state, the user can overtake a decapitated corpse or living body. However, this ability takes around 1 human year in order to fully adjust. When the user is fully adjusted to the body, its blood is overridden with Space Juice and the body’s skin turns pale.
-
 ## Backstory
 > [!Warning]
 > This section is currently a heavy work-in-progress. Short, bullet point details have been given as a substitute until further worked on.
@@ -57,6 +55,6 @@ He then captured the eye of a distant kingdom, now residing within as the Royal 
 > Although Cups did not perform “Descender” out of lore, R!Cuppers would have played it during the tavern opening.
 
 - When the Dragon’s Nest tavern hosts their grand opening, he goes to sing for the first time out of curiosity and wanting to try new things (open mic)
-- [[Nicche]] observes the performance, offering Cuppers a position of being a Royal Bard for an initial $50k (and a contract soon after)
+- [[Eiko]] observes the performance, offering Cuppers a position of being a Royal Bard for an initial $50k (and a contract soon after)
 - Cuppers travels to the Desert Kingdom to take a tour from [[Atlas F.]] (avefenix) and becomes a Desert citizen (Cas is a proud cup owner and supports the decision)
 - He travels back to Aeolian, staying in Aeolian until he receives his contract to work in the Desert
