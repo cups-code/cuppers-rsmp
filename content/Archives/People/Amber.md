@@ -18,7 +18,7 @@ published:
 > (Prerequisite: Join Emi’s Discord Server, https://discord.com/invite/emilepsi)
 
 > [!Warning] Special Note
-> This updated lore is directly from Amber. Please message her directly about her lore.
+> This updated lore is directly from Amber. Please contact her directly in regards to her lore.
 > > [!Success] Verification
 > > ![[Amber-LoreScreenshot.png]]
 
