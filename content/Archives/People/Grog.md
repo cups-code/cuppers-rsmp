@@ -5,5 +5,5 @@ date:
 modified:
 published:
 ---
-> [!Failure]
+> [!Failure] Empty
 > This document is currently empty and a work-in-progress.

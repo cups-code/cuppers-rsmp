@@ -1,4 +1,5 @@
 ---
+tags:
 title: Cas Nova, "The Fairy Warrior"
 description: The founder and defender of Aeolian.
 date: 2026-01-31
