@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Index
 description: The index of the vault.
 date: 2026-01-31
 modified:
