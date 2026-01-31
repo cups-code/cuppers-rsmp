@@ -6,7 +6,7 @@ modified:
 published:
 ---
 > [!Warning]
-> R!Cuppers is **NOT** part of the main lore. It is purely personal, side lore.
+> R!Cuppers is **NOT** part of the main lore hosted on Emilepsi’s streams. It is purely personal, open, side lore.
 
 Welcome to Cups' lore vault for Emilepsi's Royals SMP! If you don't already know, Royals SMP is an open lore SMP hosted by Emilepsi, a Twitch partner who streams Minecraft, and hosts many viewer games and such.
 
