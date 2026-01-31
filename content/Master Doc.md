@@ -56,5 +56,5 @@ He then captured the eye of a distant kingdom, now residing within as the Royal 
 
 - When the Dragon’s Nest tavern hosts their grand opening, he goes to sing for the first time out of curiosity and wanting to try new things (open mic)
 - [[Eiko]] observes the performance, offering Cuppers a position of being a Royal Bard for an initial $50k (and a contract soon after)
-- Cuppers travels to the Desert Kingdom to take a tour from [[Atlas F.]] (avefenix) and becomes a Desert citizen (Cas is a proud cup owner and supports the decision)
+- Cuppers travels to the Desert Kingdom to take a tour from [[Atlas Felix]] (avefenix) and becomes a Desert citizen (Cas is a proud cup owner and supports the decision)
 - He travels back to Aeolian, staying in Aeolian until he receives his contract to work in the Desert
