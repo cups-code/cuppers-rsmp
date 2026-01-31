@@ -6,10 +6,10 @@ modified:
 published:
 ---
 > [!Warning]
-> This document is currently a work-in-progress. It is not finished and only contains basic metadata.
+> This document is currently a work-in-progress. It is not finished and only contains [[#Metadata]] and an [[#Overview]].
 
 # Starborne Comet “Cuppers”
-## Basic Metadata
+## Metadata
 - **Name** – Cuppers (a.k.a. Cups)
 - **Titles** – Descender, Starborne Comet, Royal Bard
 - **Species** – ???
@@ -28,3 +28,9 @@ published:
 - **Relationships** – Adoptive Son of Aeolian
 - **Likes** – Music, farming, exploring
 - **Dislikes** – Alcohol, socially toxic environments
+## Overview
+Forged by an unknown creator from a starborne comet, Cuppers was an originally, non-sentient piece of tableware. However, after Cuppers was discarded and eventually ended up at a remote tavern, he was combined with an unknown substance (informally called “Space Juice”) and gained sentience through an alcoholic accident. His newlyfound “creator” Cas, took him as her adoptive son and became the adoptive son of the town of Aeolian a few years later.
+
+After finding his new home and family, he did menial tasks in Aeolian until one day, he found a broken guitar in a nearby field. After weeks of repair, he figured out how to play the guitar using both fragmented memories from his space juice and gradual learning over time. When he was finally ready, he played his silly little tunes at the opening of the Dragon’s Nest Tavern, with songs of both unknown and known origins.
+
+He then captured the eye of a distant kingdom, now residing within as the Royal Bard of the Desert Kingdom.
