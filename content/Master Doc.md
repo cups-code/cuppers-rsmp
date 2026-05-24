@@ -14,19 +14,20 @@ published:
 # Starborne Comet “Cuppers”
 ## Metadata
 - **Name** – Cuppers (a.k.a. Cups)
-- **Titles** – Descender, Starborne Comet, Royal Bard
-- **Species** – ???
+- **Titles** – Descender, Starborne Comet, Adoptive Son of Aeolian
+- **Species** – Construct
 - **Age**
-	- **Human Age**: 2 years old
-	- **Spatial Maturity (Overall Sentience)**: 24 years old
+    - **Human Age**: 2 years old
+    - **Spatial Maturity (Overall Sentience)**: 26 years old
 - **Height** – 5’8
-- **Role** – Jester (Lore-wise, Royal Bard in Desert Kingdom)
+- **Role** – Jester (Lore-wise (since I can't get the role), Bard)
 - **Pronouns** – He/Him preferred, They/Them accepted
-- **Personality** – Calm, naive, and internally distraught
-- **Family** – Cas (Adoptive Mother, “Creator”), Grog
-- **Relationships** – Adoptive Son of Aeolian
-- **Likes** – Music, farming, exploring
+- **Personality** – Calm, shy, and internally distraught
+- **Family** – ~~Cas (Adoptive Mother, “Creator”)~~ [deceased], ~~Grog~~ [missing]
+- **Likes** – Music, exploring
 - **Dislikes** – Alcohol, socially toxic environments
+- **Affiliated Towns**
+	- Aeolian (Founded by [[Cas]], Current Mayor: [[Amber]])
 ## Overview
 Forged by an unknown creator from a starborne comet, Cuppers was an originally, non-sentient piece of tableware. However, after Cuppers was discarded and eventually ended up at a remote tavern, he was combined with an unknown substance (informally called “Space Juice”) and gained sentience through an alcoholic accident. His newlyfound “creator” [[Cas]], took him as her adoptive son and became the adoptive son of the town of [[Aeolian]] a few years later.
 
@@ -39,7 +40,7 @@ He then captured the eye of a distant kingdom, now residing within as the Royal 
 - **Parasitic Nature.** Upon entering the Pure Host state, the user can overtake a decapitated corpse or living body. However, this ability takes around 1 human year in order to fully adjust. When the user is fully adjusted to the body, its blood is overridden with Space Juice and the body’s skin turns pale.
 ## Backstory
 > [!Warning]
-> This section is currently a heavy work-in-progress. Short, bullet point details have been given as a substitute until further worked on.
+> This section is not fully formatted, as it is currently in short, bulleted points. It is not planned to be fully formatted.
 
 - A fairy named “[[Cas]]” does her usual assassination, except she finds a bottle filled with an unknown substance [[#^ed325f|(“Space Juice”)]]
 - She goes to a tavern, gets drunk, finds a cup (coincidentally Cuppers’ vessel), pours it there, and almost accidentally drinks it until Cuppers magically goes alive but it’s floaty and doesn’t have a body

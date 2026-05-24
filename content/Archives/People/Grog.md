@@ -5,5 +5,4 @@ date:
 modified:
 published:
 ---
-> [!Failure] Empty
-> This document is currently empty and a work-in-progress.
+Although Cuppers can’t remember much from the top of his head, he knew that Grog was his adoptive father.

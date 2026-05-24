@@ -2,7 +2,7 @@
 tags:
   - Aeolian
   - Nether
-title: Amber
+title: Amber [Hand of Viceroy] / [Mayor of Aeolian]
 description: A humanoid-dragon who once resided in the nether kingdom, now running the Dragon's Nest Tavern in Aeolian.
 date:
 modified:

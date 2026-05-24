@@ -5,6 +5,11 @@ date: 2026-01-31
 modified:
 published:
 ---
+> [!Question] Information Accuracy
+> This information **may not be accurate** to the present time. Please see the owner for any updates on the lore of this place.
+
+---
+
 > [!Success] Main Source
 > All Aeolian lore and relevant information can be found in this post.
 > https://discord.com/channels/796596038135709717/1448441479973310585
@@ -12,6 +17,7 @@ published:
 
 > [!Tip] Owner
 > The founder of this town is [[Cas]] Nova.
+> The mayor of this town (May 24, 2026) is [[Amber]].
 
 > [!Note] Additional Info
 > - All of this lore was taken from the Aeolian Discord server in Cas’ character forum.

@@ -6,6 +6,11 @@ date: 2026-01-31
 modified:
 published:
 ---
+> [!Question] Information Accuracy
+> This information **may not be accurate** to the present time. Please see the owner for any updates on the lore of this place.
+
+---
+
 > [!Success] Main Document
 > Cas has provided her full lore document here.
 > https://write.ellipsus.com/edit/8cb9d4f0-2e7d-40a8-a9d8-9e84c2a6e2a1
