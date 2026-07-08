@@ -2,7 +2,7 @@
 tags:
   - DesGov
   - Desert
-title: Atlas Felix, "The Wandering Archivist"
+title: Atlas Felix, "The Wandering Archivist" (Sculk Investigator)
 description:
 date: 2026-01-31
 modified:

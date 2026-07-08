@@ -14,13 +14,13 @@ published:
 # Starborne Comet “Cuppers”
 ## Metadata
 - **Name** – Cuppers (a.k.a. Cups)
-- **Titles** – Descender, Starborne Comet, Adoptive Son of Aeolian
+- **Titles** – Descender, Starborne Comet, Adoptive Son of Aeolian, Royal Bard
 - **Species** – Construct
 - **Age**
     - **Human Age**: 2 years old
     - **Spatial Maturity (Overall Sentience)**: 26 years old
 - **Height** – 5’8
-- **Role** – Jester (Lore-wise (since I can't get the role), Bard)
+- **Role** – Bard
 - **Pronouns** – He/Him preferred, They/Them accepted
 - **Personality** – Calm, shy, and internally distraught
 - **Family** – ~~Cas (Adoptive Mother, “Creator”)~~ [deceased], ~~Grog~~ [missing]
@@ -35,9 +35,12 @@ After finding his new home and family, he did menial tasks in Aeolian until one 
 
 He then captured the eye of a distant kingdom, now residing within as the Royal Bard of the Desert Kingdom.
 ## Powers
+### Awoken
 - **”Space Juice”.** Holding the memories of a suitable host, the consciousness of the host is overridden with the memories it holds. ^ed325f
 - **Pure Host.** This allows the user to return to its original state. The user cannot return to its state unless its body has been severed from the host item holding the Space Juice. (In this context, R!Cuppers returns to his original small cup when he has no body.)
 - **Parasitic Nature.** Upon entering the Pure Host state, the user can overtake a decapitated corpse or living body. However, this ability takes around 1 human year in order to fully adjust. When the user is fully adjusted to the body, its blood is overridden with Space Juice and the body’s skin turns pale.
+### Dormant
+N/A
 ## Backstory
 > [!Warning]
 > This section is not fully formatted, as it is currently in short, bulleted points. It is not planned to be fully formatted.

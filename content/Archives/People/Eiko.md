@@ -1,4 +1,8 @@
 ---
+tags:
+  - Desert
+  - DesGov
+  - SculkInvestigator
 title: Eiko, "The Sculk Investigator"
 description: A kitsune and merchant for the Desert Kingdom, now also a sculk investigator.
 date: 2026-01-31

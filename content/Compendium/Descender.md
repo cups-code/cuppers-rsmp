@@ -5,6 +5,8 @@ date: 2026-01-31
 modified:
 published:
 ---
+– PART 1: MEMORY –
+
 Fireworks
 It reminds me of an old home
 It's getting cold
@@ -22,3 +24,17 @@ Taverns and alcohol, even though I don't drink
 Peaceful springs, my favourite place
 A cozy town hall, our starting point
 And the people here, they're lovely and all
+
+– PART 2: TURMOIL –
+
+[Interlude]
+
+Descender, you call this your home?
+Descender, you call this your home?
+Descender, descender
+You call this your home?
+Descender, descender
+You call this your home?
+Descender, descender
+You call this your home?
+Descender, descender

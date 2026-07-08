@@ -3,3 +3,7 @@ Preserved by the space juice holding Cuppers’ memories and life-force, it has 
 ## Aeolian Arc
 - [[1. In Transit]]
 - [[2. The Aftermath]]
+- [[3. Anew; In Royalty]]
+## Travels Arc
+- [[4. Strange Happenings]]
+- [[5. Oops! A Dragonspire Incident]]
