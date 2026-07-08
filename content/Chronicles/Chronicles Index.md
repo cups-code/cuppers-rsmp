@@ -6,4 +6,4 @@ Preserved by the space juice holding Cuppers’ memories and life-force, it has 
 - [[3. Anew; In Royalty]]
 ## Travels Arc
 - [[4. Strange Happenings]]
-- [[5. Oops! A Dragonspire Incident]]
+- [[5. Oops! A Dragonspire Incident...]]
